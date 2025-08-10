@@ -15,19 +15,19 @@
   <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/1.png" alt="截图1" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
   <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/2.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
   
-    <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/3.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+    <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/3.png" alt="截图3" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
     
-      <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/4.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+      <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/4.png" alt="截图4" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
       
-        <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/5.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+        <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/5.png" alt="截图5" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
         
         
-          <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/6.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+          <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/6.png" alt="截图6" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
           
           
-            <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/7.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+            <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/7.png" alt="截图7" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
             
-              <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/8.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+              <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/8.png" alt="截图8" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
   
 </div>
 ### ✨ 项目特色
