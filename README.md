@@ -9,7 +9,27 @@
 ## 📖 项目简介
 
 「码农来了」是一个专为程序员打造的现代化个人技术博客平台。项目采用最新的前端技术栈，提供了完整的用户认证系统、文章管理、分类标签、搜索功能等，致力于为技术分享者提供一个优雅、高效的内容展示平台。
+## 🖼️ 作品展示
 
+<div align="center">
+  <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/1.png" alt="截图1" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+  <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/2.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+  
+    <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/3.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+    
+      <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/4.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+      
+        <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/5.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+        
+        
+          <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/6.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+          
+          
+            <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/7.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+            
+              <img src="https://github.com/chenZai90/AIBlog/blob/main/screenShotes/8.png" alt="截图2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+  
+</div>
 ### ✨ 项目特色
 
 - 🎨 **现代化设计** - 简洁优雅的 UI 设计，支持深色/浅色主题切换
