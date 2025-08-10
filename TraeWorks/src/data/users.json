@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "email": "624990742@qq.com",
+    "username": "chenZai90",
+    "name": "贾晨",
+    "avatarUrl": "https://trae-api-us.mchost.guru/api/ide/v1/text_to_image?prompt=professional%20developer%20avatar%20portrait%20young%20asian%20male%20programmer%20clean%20modern%20style%20friendly%20smile%20tech%20background&image_size=square",
+    "bio": "iOS开发工程师，专注于移动端开发和前端技术。热爱分享技术心得，持续学习新技术。",
+    "passwordHash": "$2b$10$hashedpassword123",
+    "isActive": true,
+    "lastLoginAt": "2024-01-15T10:30:00Z",
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2024-01-15T10:30:00Z",
+    "role": "admin"
+  },
+  {
+    "id": "2",
+    "email": "user@example.com",
+    "username": "testuser",
+    "name": "测试用户",
+    "avatarUrl": "https://trae-api-us.mchost.guru/api/ide/v1/text_to_image?prompt=casual%20user%20avatar%20portrait%20friendly%20person%20modern%20style&image_size=square",
+    "bio": "技术爱好者，喜欢学习新技术和分享经验。",
+    "passwordHash": "$2b$10$hashedpassword456",
+    "isActive": true,
+    "lastLoginAt": "2024-01-10T08:20:00Z",
+    "createdAt": "2023-06-15T00:00:00Z",
+    "updatedAt": "2024-01-10T08:20:00Z",
+    "role": "user"
+  }
+]

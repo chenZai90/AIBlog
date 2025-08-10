@@ -1,0 +1,59 @@
+{
+  "name": "贾晨",
+  "nickname": "90后晨仔",
+  "title": "iOS开发工程师",
+  "bio": "专注于iOS开发、前端技术、全栈开发等技术分享。热爱分享技术心得，持续学习新技术栈。拥有丰富的移动端开发经验，擅长Swift、SwiftUI、RxSwift、React、TypeScript等技术。",
+  "avatar": "https://trae-api-us.mchost.guru/api/ide/v1/text_to_image?prompt=professional%20developer%20avatar%20portrait%20young%20asian%20male%20programmer%20clean%20modern%20style%20friendly%20smile%20tech%20background&image_size=square",
+  "skills": [
+    "iOS Development",
+    "Swift",
+    "SwiftUI",
+    "RxSwift",
+    "React",
+    "TypeScript",
+    "Java",
+    "Python",
+    "Go",
+    "HTML/CSS"
+  ],
+  "socialLinks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/chenZai90",
+      "icon": "github",
+      "color": "#333"
+    },
+    {
+      "name": "掘金",
+      "url": "https://juejin.cn/user/2717648476705773",
+      "icon": "bookmark",
+      "color": "#1e80ff"
+    },
+    {
+      "name": "邮箱",
+      "url": "mailto:624990742@qq.com",
+      "icon": "mail",
+      "color": "#ea4335"
+    }
+  ],
+  "motto": "但知行好事，莫要问前程",
+  "interests": [
+    "爬山徒步",
+    "阅读写作",
+    "编程创作",
+    "技术分享"
+  ],
+  "projects": [
+    {
+      "name": "iOS端移动图书馆",
+      "description": "基于Swift开发的移动端图书管理应用",
+      "tech": ["Swift", "iOS", "Core Data"]
+    }
+  ],
+  "learningGoals": [
+    "SwiftUI架构最佳实践",
+    "RxSwift高级模式",
+    "后端技术基础",
+    "全栈开发能力提升"
+  ]
+}
